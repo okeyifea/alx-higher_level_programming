@@ -1,2 +1,2 @@
-VimCrypt~03!=ìÊa0ÌÅ…oAÜ€ğr˜9©óÍÑ%ÚÑV¨Â¥ã|erí
-‘íAFû­Ù¥Z¨AÀ”iò¨ÛSUÒ1ù‡VÃ÷”Çä°õãÍ§~QùñpşÀÎæj"íÏ"X°gÃÈ˜Ù–¹
+-- Deletes the database hbtn_0c_0 from my MySQL server.
+DROP DATABASE IF EXISTS `hbtn_0c_0`;
